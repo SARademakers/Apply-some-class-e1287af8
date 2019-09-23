@@ -1,0 +1,21 @@
+th {
+	border:1px;padding:2em;background-color:lightgray;text-align:center;
+}
+td {
+	border:1px;padding:2em;background-color:gray;text-align:center;
+}
+a {
+	color:white;
+}
+.h {
+	color:green;background-color:ed593a;
+}
+.one {
+	background-color:b147bb;
+}
+.two {
+	background-color:2ba8c6;
+}
+.three {
+	background-color:eaea57;
+}
